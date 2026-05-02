@@ -20,10 +20,10 @@ NeuroTac AI evaluates all possible moves on the board, simulates outcomes, and s
 python main.py
 ```
 ## 🔮 Future Improvements
-🖥 GUI interface
-🎯 Difficulty levels
-🤖 Advanced AI (Minimax / Reinforcement Learning)
-🌐 Multiplayer support
+- 🖥 GUI interface
+- 🎯 Difficulty levels
+- 🤖 Advanced AI (Minimax / Reinforcement Learning)
+- 🌐 Multiplayer support
 
 ## 👨‍💻 Author
 
